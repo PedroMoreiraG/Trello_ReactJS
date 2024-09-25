@@ -1,0 +1,8 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    border: 1px solid rgb(95, 152, 171);
+    padding: 1rem;
+    border-radius: 8px;
+    width: 250px;
+}
